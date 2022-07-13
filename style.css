@@ -1,0 +1,54 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.ac-23 {
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.heading-color {
+    color: orangered;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+
+
+section {
+    display: flex;
+    margin: 150px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 25px;
+}
+
+.half-width img {
+    width: 90%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: orangered;
+    border-radius: 20px;
+    padding: 10px 40px;
+    font-size: 20px;
+    color: white;
+    font-weight: 800;
+}
+
+.ac-10 {
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+
+}
