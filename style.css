@@ -79,3 +79,10 @@ h1 {
     border-left: 8px solid tomato;
     border-radius: 10px;
 }
+
+footer p {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 25px;
+}
